@@ -3,11 +3,11 @@
 ### Hello, I'm Surafel Kassahun! 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning flutter
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🎓 Soon to be grad with a Bachelor of Software Engineering. (2023)
+- 🌱 I’m currently learning flutter
+- 🎓 Soon to be grad with a Bachelor of Software Engineering (2023)
 - 📫 How to reach me: [LinkedIn - Surafel Kassahun](https://www.linkedin.com/in/surafel-kassahun/)
 <!-- - ⚡ Fun fact: ... -->
 <p></p>
