@@ -7,7 +7,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [LinkedIn - Surafel Kassahun](https://www.linkedin.com/in/surafel-kassahun-916117172/)
+- 🎓 Soon to be grad with a Bachelor of Software Engineering. (2023)
+- 📫 How to reach me: [LinkedIn - Surafel Kassahun](https://www.linkedin.com/in/surafel-kassahun/)
 <!-- - ⚡ Fun fact: ... -->
 <p></p>
 <h4 align="left"> ⚡ languages and tools i've worked with</h3>
