@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=surafel1999&color=blue)
 
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Surafel Kassahun!
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Surafel!
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
