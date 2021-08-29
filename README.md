@@ -1,17 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=surafel1999&color=blue)
 
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Surafel!
+<a href="https://www.linkedin.com/in/surafel-kassahun/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:se.surafel.kassahun@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning flutter
+### About Me
 - 🎓 Soon to be grad with a Bachelor of Software Engineering (2023)
-- 📫 How to reach me: [LinkedIn - Surafel Kassahun](https://www.linkedin.com/in/surafel-kassahun/)
+- 🌱 I’m currently learning flutter
 <!-- - ⚡ Fun fact: ... -->
-<p></p>
-<h4 align="left"> ⚡ languages and tools i've worked with</h3>
+
+### ⚡ languages and tools i've worked with
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
