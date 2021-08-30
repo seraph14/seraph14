@@ -12,7 +12,6 @@
 ### About Me
 - 🎓 Soon to be grad with a Bachelor of Software Engineering (2023)
 - 🌱 I’m currently learning flutter
-<!-- - ⚡ Fun fact: ... -->
 
 ### ⚡ languages and tools i've worked with
 
