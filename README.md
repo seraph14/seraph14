@@ -41,4 +41,4 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=surafel1999&count_private=true&show_icons=true&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=seraph14&count_private=true&show_icons=true&show_icons=true&hide_border=true">
