@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=surafel1999&color=blue)
 
-<p align="center">
 ### Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -18,4 +17,3 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=seraph14&count_private=true&show_icons=true&show_icons=true&hide_border=true">
-</p>
