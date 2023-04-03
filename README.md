@@ -1,3 +1,4 @@
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=surafel1999&color=blue)
 
 ### Languages and Tools
@@ -17,3 +18,4 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=seraph14&count_private=true&show_icons=true&show_icons=true&hide_border=true">
+</p>
