@@ -1,18 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=surafel1999&color=blue)
 
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Surafel!
-<a href="https://www.linkedin.com/in/surafel-kassahun/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:se.surafel.kassahun@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
-
-### About Me
-- 🎓 Soon to be grad with a Bachelor of Software Engineering (2023)
-- 🌱 I’m currently learning mobile development
-
 ### Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
